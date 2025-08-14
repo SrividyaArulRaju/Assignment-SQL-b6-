@@ -1,1 +1,1 @@
-# Assignment-SQL-14-08-2025-
+# Assignment-SQL
